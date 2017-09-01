@@ -1,3 +1,12 @@
+In this Repo I built two applications:
+
+1- Image Gallery
+
+2- Landing Page
+
+using Bootstrap grid system , Bootstrap components, CSS.
+
+
 - Bootstrap:
 
 Bootstrap is an open-source Javascript framework developed by the team at Twitter. It is a combination of HTML, CSS, and Javascript code designed to help build user interface components. Bootstrap was also programmed to support both HTML5 and CSS3.
@@ -33,10 +42,3 @@ Since Bootstrap 2, the Bootstrap documentation has included a customization wiza
 As of Bootstrap 4, Sass is used instead of Less for the stylesheets.
 Each Bootstrap component consists of an HTML structure, CSS declarations, and in some cases accompanying JavaScript code.
 Grid system and responsive design comes standard with an 1170 pixel wide grid layout. Alternatively, the developer can use a variable-width layout. For both cases, the toolkit has four variations to make use of different resolutions and types of devices: mobile phones, portrait and landscape, tablets and PCs with low and high resolution. Each variation adjusts the width of the columns.
-
-In this Repo I built two applications:
-
-1- Image Gallery
-2- Landing Page
-
-using Bootstrap grid system , Bootstrap components, CSS.
