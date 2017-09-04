@@ -1,12 +1,13 @@
 body {
   padding-top: 70px;
 }
+
 .jumbotron {
-  color: #0055AA;
+  color: #0055aa;
   background-color: #ecf0f1;
 }
 .navbar-inverse {
-  background: #0055AA;
+  background: #0055aa;
 }
 .flex {
   display: flex;
